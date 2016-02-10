@@ -24,3 +24,6 @@ node_modules/
 
 # environment
 .env
+
+# db file
+db/shortly.sqlite
