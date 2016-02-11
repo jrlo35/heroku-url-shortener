@@ -34,7 +34,7 @@ module.exports = function(grunt) {
         src: ['public/dist/build.js'],
         dest: '',
         ext: '.min.js',
-        expand: true,   
+        expand: true   
       }
     },
 
